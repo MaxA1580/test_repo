@@ -1,6 +1,6 @@
 # This is my test repository
 
-print table:
+The program prints table:
 
 |1|2|3|
 |:-:|:-:|:-:
