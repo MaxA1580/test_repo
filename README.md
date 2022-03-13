@@ -1,4 +1,4 @@
-# This is my test repository
+# This is my test repository (Это мой тестовый репозиторий)
 
 The program prints table:
 
